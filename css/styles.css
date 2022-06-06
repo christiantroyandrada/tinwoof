@@ -1,0 +1,60 @@
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+}
+/*ID Selection*/
+
+#title{
+    background-color: #0F4C75;
+    color: #fff;
+    padding: 3% 15%;
+}
+#features{
+    padding: 7% 15%;
+}
+
+/* Title Section */
+
+.navbar{
+    background-color: #0F4C75;
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-family: "Montserrat" ,sans-serif;
+    font-weight: 300;
+}
+.download-btn{
+    margin: 4% 1.5% 0 0;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+/* Features Section */
+span.features-img{
+    padding: 1rem 0 1.3rem 0;
+    color: #0F4C75;
+}
+span.features-img:hover {
+    color: #1B262C;
+}
+.features-heading{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
