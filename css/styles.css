@@ -17,7 +17,24 @@ body{
 #features{
     padding: 7% 15%;
 }
-
+#testimonials{
+    padding: 7% 15%;
+    background-color: #0F4C75;
+}
+#press{
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 7% 15%;
+}
+#cta{
+    padding: 7% 15%;
+    background-color: #0F4C75;
+}
+#footer{
+    padding: 0 15%;
+    background-color: #0F4C75;
+}
 /* Title Section */
 
 .navbar{
@@ -57,4 +74,62 @@ span.features-img:hover {
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+/* Testimonials section */
+
+.testimonial-img{
+    display: block;
+    width: 50%;
+    margin: 0 auto 3%;
+    border-radius: 10%;
+}
+.testimonial-text{
+    font-size: 1.5rem;
+    width: 70%;
+    margin: 7% auto 5%;
+}
+
+/* Press Section */
+.press-heading{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 8%;
+}
+.press-img{
+    padding: 5% 5%;
+    width: 200px;
+}
+
+/* Plans Section */
+
+.plans-heading{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #0F4C75;
+}
+.plans-subheading{
+    padding-bottom: 5%;
+}
+.plan-title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+.plan-button{
+    border-color: transparent;
+    background-color: #0F4C75;
+    color: #fff
+}
+.plan-button:hover{
+    background-color: #fff;
+    border-color: #0F4C75;
+    color: #0F4C75;
+}
+/* cta section */
+.cta-title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
 }
