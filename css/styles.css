@@ -1,5 +1,4 @@
 h1{
-    font-family: "Montserrat", sans-serif;
     font-weight: 900;
     font-size: 3.5rem;
     line-height: 1.5;
@@ -56,7 +55,6 @@ body{
 }
 .nav-link{
     font-size: 1rem;
-    font-family: "Montserrat", sans-serif;
     font-weight: 300;
 }
 .download-btn{
@@ -85,7 +83,6 @@ span.features-img:hover {
     color: #1B262C;
 }
 .features-heading{
-    font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
 }
@@ -110,7 +107,6 @@ span.features-img:hover {
 
 /* Press Section */
 .press-heading{
-    font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 8%;
@@ -123,7 +119,6 @@ span.features-img:hover {
 /* Plans Section */
 
 .plans-heading{
-    font-family: "Montserrat", sans-serif;
     font-size: 3rem;
     font-weight: bold;
     color: #0F4C75;
@@ -132,7 +127,6 @@ span.features-img:hover {
     padding-bottom: 5%;
 }
 .plan-title{
-    font-family: "Montserrat", sans-serif;
     font-weight: bold;
 }
 .plan-button{
@@ -147,7 +141,6 @@ span.features-img:hover {
 }
 /* cta section */
 .cta-title{
-    font-family: "Montserrat", sans-serif;
     font-weight: bold;
     font-size: 3rem;
 }
