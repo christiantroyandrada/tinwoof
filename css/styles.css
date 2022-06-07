@@ -16,10 +16,15 @@ body{
 }
 #features{
     padding: 7% 15%;
+    background-color: white;
+    position:relative;
+    z-index: 2;
 }
 #testimonials{
     padding: 7% 15%;
     background-color: #0F4C75;
+    position: relative;
+    z-index: 2;
 }
 #press{
     padding: 7% 15%;
@@ -56,10 +61,15 @@ body{
 }
 .download-btn{
     margin: 4% 1.5% 0 0;
+    position: relative;
+    z-index: 2;
 }
 .title-img{
-    width: 60%;
+    width: 20%;
     transform: rotate(25deg);
+    position:absolute;
+    right: 20%;
+    z-index: 1;
 }
 
 /* Features Section */
