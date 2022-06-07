@@ -71,6 +71,10 @@ body{
     right: 20%;
     z-index: 1;
 }
+.title-img-mobile{
+    width: 50%;
+    margin: 5% auto 3%;
+}
 
 /* Features Section */
 span.features-img{
